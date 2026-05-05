@@ -18,12 +18,20 @@
 - [[short-ribs]]: Collagen-rich, 144°F for 48 hours, difficulty 3/5
 - [[brisket]]: Working cut, 155°F for 24-36 hours, difficulty 4/5
 - [[fish-dishes]]:
+- [[salmon-lemon-dill]]: Bright herb crust, 115°F for 30-45 min, difficulty 2/5
+- [[ahi-tuna-tataki]]: Sashimi-style, 110°F for 30-45 min, difficulty 2/5
+- [[miso-black-cod]]: Sweet-savory glaze, 104°F for 45-60 min, difficulty 3/5
+- [[fish-tacos]]: Cilantro-lime slaw, 130°F for 30-45 min, difficulty 2/5
 - [[poultry-dishes]]:
 - [[chicken-breast]]: Juicy every time, 145°F for 1.5-4 hours, difficulty 2/5
 - [[chicken-thighs]]: Dark meat, 165°F for 4-8 hours, difficulty 2/5
 - [[whole-chicken]]: Spatchcock or stuffed, 150°F for 6 hours, difficulty 3/5
 - [[duck-breast]]: Medium-rare, render fat first, 135°F for 1.5-2 hours, difficulty 3/5
 - [[seafood-dishes]]:
+- [[garlic-butter-shrimp]]: Plump and snappy, 145°F for 20-30 min, difficulty 2/5
+- [[seared-scallops]]: Buttery with beurre blanc, 130°F for 20-30 min, difficulty 3/5
+- [[lobster-tails]]: Luxurious, 140°F for 25-35 min, difficulty 3/5
+- [[squid-ink-pasta]]: Creative calamari, 140°F for 45-60 min, difficulty 3/5
 
 ## Dishes - By Meal Type
 - [[breakfast-dishes]]:

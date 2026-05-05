@@ -1,4 +1,4 @@
-﻿# Short Ribs
+# Short Ribs
 
 Short ribs are a collagen-rich, deeply marbled cut that transforms into an incredibly tender dish after a long, slow sous vide cook. The extended cooking time breaks down tough connective tissue while keeping the meat juicy, resulting in a texture that ranges from steak-like to fall-apart tender.
 

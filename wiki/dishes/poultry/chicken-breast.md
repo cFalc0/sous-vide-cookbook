@@ -1,4 +1,4 @@
-﻿# Chicken Breast
+# Chicken Breast
 
 Sous vide chicken breast delivers unparalleled juiciness by holding the meat at a precise temperature that prevents the dryness common with traditional methods. This technique transforms what is often the most challenging cut of poultry into consistently tender, flavorful results every time.
 

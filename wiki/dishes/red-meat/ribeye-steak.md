@@ -1,4 +1,4 @@
-﻿# Ribeye Steak
+# Ribeye Steak
 
 Ribeye is a heavily marbled, flavorful cut that becomes exceptionally tender and juicy when cooked sous vide. The precision temperature control ensures the fat renders perfectly while keeping the meat at your exact preferred doneness from edge to edge.
 

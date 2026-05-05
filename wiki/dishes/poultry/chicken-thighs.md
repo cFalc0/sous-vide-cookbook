@@ -1,4 +1,4 @@
-﻿# Chicken Thighs
+# Chicken Thighs
 
 Sous vide chicken thighs turn rich, collagen-heavy dark meat into exceptionally tender and juicy results that rival your favorite restaurant preparations. The precise temperature control lets you choose between sliceable thighs or fall-off-the-bone tenderness by simply adjusting the cooking time.
 

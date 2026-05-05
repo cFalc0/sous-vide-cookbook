@@ -1,4 +1,4 @@
-﻿# Filet Mignon
+# Filet Mignon
 
 Filet mignon is the most tender cut of beef, taken from the center of the tenderloin with very little fat or connective tissue. Sous vide cooking ensures this lean steak stays moist and reaches the exact doneness you prefer without the risk of overcooking.
 

@@ -1,4 +1,4 @@
-﻿# Whole Chicken
+# Whole Chicken
 
 Sous vide whole chicken delivers uniformly juicy meat throughout the bird with minimal effort, though it requires proper preparation to ensure even cooking and food safety. By spatchcocking the chicken or filling the cavity with aromatics, you can achieve restaurant-quality results that stay moist even when reheated.
 

@@ -1,4 +1,4 @@
-﻿# Brisket
+# Brisket
 
 Brisket is a tough, working muscle from the chest of the cow that requires long cooking to break down its dense connective tissue. Sous vide transforms this budget-friendly cut into tender, juicy meat with a consistent texture throughout, eliminating the expertise traditionally required for barbecue brisket.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/bag-techniques.md",
+                "file": "wiki/dishes/fish/fish-tacos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bag-techniques"
+              "title": "fish-tacos"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/bag-techniques.md",
+                "file": "wiki/dishes/fish/fish-tacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bag-techniques"
+              "title": "Backlinks for fish-tacos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concepts/bag-techniques.md",
+                "file": "wiki/dishes/fish/fish-tacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bag-techniques"
+              "title": "Outgoing links from fish-tacos"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/bag-techniques.md",
+                "file": "wiki/dishes/fish/fish-tacos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bag-techniques"
+              "title": "Outline of fish-tacos"
             }
           }
         ]
@@ -183,20 +183,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "105a996fa7f4bf35",
+  "active": "af6c14f198d1ed3e",
   "lastOpenFiles": [
-    "wiki/dishes/poultry/duck-breast.md",
+    "wiki/dishes/seafood/squid-ink-pasta.md",
+    "wiki/dishes/seafood/lobster-tails.md",
+    "wiki/dishes/seafood/seared-scallops.md",
+    "wiki/dishes/seafood/garlic-butter-shrimp.md",
+    "wiki/dishes/red-meat/ribeye-steak.md",
+    "wiki/dishes/red-meat/short-ribs.md",
+    "wiki/dishes/red-meat/red-meat-dishes.md",
+    "wiki/dishes/red-meat/filet-mignon.md",
+    "wiki/dishes/red-meat/brisket.md",
     "wiki/dishes/poultry/whole-chicken.md",
+    "wiki/dishes/poultry/poultry-dishes.md",
+    "wiki/dishes/poultry/duck-breast.md",
     "wiki/dishes/poultry/chicken-thighs.md",
     "wiki/dishes/poultry/chicken-breast.md",
-    "wiki/dishes/red-meat/brisket.md",
-    "wiki/dishes/red-meat/short-ribs.md",
-    "wiki/dishes/red-meat/filet-mignon.md",
-    "wiki/dishes/red-meat/ribeye-steak.md",
+    "wiki/dishes/dinner/dinner-dishes.md",
+    "wiki/dishes/breakfast/breakfast-dishes.md",
+    "wiki/concepts/searing-techniques.md",
+    "wiki/dishes/fish/fish-tacos.md",
+    "wiki/dishes/fish/miso-black-cod.md",
+    "wiki/dishes/fish/ahi-tuna-tataki.md",
+    "wiki/dishes/fish/salmon-lemon-dill.md",
+    "wiki/concepts/bag-techniques.md",
     "wiki/concepts/timing-guide.md",
     "wiki/concepts/temperature-guide.md",
-    "wiki/concepts/sous-vide-basics.md",
-    "wiki/concepts/searing-techniques.md",
-    "wiki/concepts/bag-techniques.md"
+    "wiki/concepts/sous-vide-basics.md"
   ]
 }

@@ -1,4 +1,4 @@
-﻿# Duck Breast
+# Duck Breast
 
 Sous vide duck breast produces restaurant-quality results with a uniformly pink, juicy interior and crisp skin that is difficult to achieve with traditional stovetop methods alone. As a meat best served medium-rare, duck breast is an ideal candidate for sous vide cooking, which eliminates the guesswork and prevents the meat from turning gray and tough.
 
