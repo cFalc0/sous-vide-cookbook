@@ -1,9 +1,21 @@
 ﻿# Log
 
+## [2026-05-05] Red Meat & Poultry Dishes
+
+- Created wiki/dishes/red-meat/ribeye-steak.md (130°F, 2 hours, difficulty 2/5)
+- Created wiki/dishes/red-meat/filet-mignon.md (130°F, 1.5 hours, difficulty 2/5)
+- Created wiki/dishes/red-meat/short-ribs.md (144°F, 48 hours, difficulty 3/5)
+- Created wiki/dishes/red-meat/brisket.md (155°F, 24-36 hours, difficulty 4/5)
+- Created wiki/dishes/poultry/chicken-breast.md (145°F, 1.5-4 hours, difficulty 2/5)
+- Created wiki/dishes/poultry/chicken-thighs.md (165°F, 4-8 hours, difficulty 2/5)
+- Created wiki/dishes/poultry/whole-chicken.md (150°F, 6 hours, difficulty 3/5)
+- Created wiki/dishes/poultry/duck-breast.md (135°F, 1.5-2 hours, difficulty 3/5)
+- Updated wiki/index.md with dish summaries
+
 ## [2026-05-04] Style and Content Expansion
 
 - Expanded all concept articles with deeper explanations and universal principles
-- Removed brand/product names — focused on techniques and understanding
+- Removed brand/product names - focused on techniques and understanding
 - Added detailed timing tables for every protein
 - Added troubleshooting sections
 - Adopted new style: shorter paragraphs, bullet lists, tables
