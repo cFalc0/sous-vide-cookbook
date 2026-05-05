@@ -1,4 +1,4 @@
-﻿# Index
+# Index
 
 ## Concepts
 - [[sous-vide-basics]]: What sous vide is, how it works, the core principle
