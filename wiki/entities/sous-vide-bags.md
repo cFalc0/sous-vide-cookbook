@@ -1,75 +1,61 @@
 # Sous Vide Bags
 
-Containers and bags for sous vide cooking, including freezer-grade zip lock bags, vacuum seal bags, and reusable silicone bags. The choice affects cost, convenience, and results for different cooking scenarios.
+Options range from single-use zip lock bags to reusable silicone bags. Each has trade-offs in cost, convenience, and environmental impact.
 
-## Tags
-- equipment
-- tools
+---
 
-## Summary
+## Zip Lock Bags
 
-Sous vide cooking requires containers that withstand prolonged heat exposure while maintaining a watertight seal. Options include freezer-grade zip lock bags (lowest cost, use water displacement method), vacuum seal bags (best for long cooks), and reusable silicone bags like Stasher (eco-friendly, versatile). Each has distinct advantages regarding cost, convenience, and durability.
+The lowest barrier to entry.
 
-## Details
+- **Cost:** ~$0.15 per bag
+- **Use:** Freezer-grade only (standard bags fail at heat)
+- **Method:** Water displacement (see [[bag-techniques]])
 
-### Freezer-Grade Zip Lock Bags
+**Pros:** Cheap, no equipment needed  
+**Cons:** Single-use, may float
 
-The most accessible option—requires no special equipment beyond the bags themselves.
+---
 
-**How to use:** Water displacement method (ZD technique)
-1. Place food in bag, seal except for small corner
-2. Slowly lower into water bath
-3. Water pressure pushes out air
-4. Seal remaining opening underwater
+## Vacuum Seal Bags
 
-**Pros:** Low cost (~$0.15/bag), widely available, no equipment needed
-**Cons:** Not a true vacuum, may float, single-use
+Best for long cooks and professional results.
 
-**Tip:** Use BPA-free freezer-grade bags only. Standard storage bags may fail at sous vide temperatures.
+- **Cost:** ~$0.50–1.00 per bag
+- **Requires:** Vacuum sealer ($50–200)
 
-### Vacuum Seal Bags
+**Pros:** Complete air removal, best heat transfer  
+**Cons:** Higher ongoing cost
 
-Best for professional results and long cooks—achieve complete air removal.
+---
 
-**Pros:** True vacuum seal, best heat transfer, reliable submersion
-**Cons:** Requires vacuum sealer machine (~$50-200), per-bag cost higher
+## Reusable Silicone Bags
 
-**Recommended:** Anova Precision Vacuum Sealer Bags, FoodSaver bags
+Eco-friendly option — can be used hundreds of times.
 
-### Reusable Silicone Bags
+### Stasher Bags — Leading Brand
+- **Cost:** $15–40 per bag (one-time)
+- **Material:** Platinum silicone, BPA-free
+- **Seal:** Pinch-Loc
+- **Sizes:** Half-gallon, quart, sandwich, snack
+- **Dishwasher/Freezer:** Safe
+- **Heat:** Oven to 425°F
 
-Eco-friendly alternative—can be used hundreds of times.
+**Tip:** For long sous vide cooks, clip the top to prevent air escape.
 
-**Stasher Bags** — Leading brand
-- Platinum silicone, BPA-free
-- Pinch-Loc seal
-- Sizes: half-gallon (64oz), quart, sandwich, snack
-- Dishwasher safe, freezer safe, oven to 425°F
-- Not a true vacuum—use clip to secure during long sous vide cooks
+---
 
-**Pros:** Reusable hundreds of times, eco-friendly, versatile
-**Cons:** Higher upfront cost (~$15-40/bag), pinch-lock may let small air escape during long cooks
+## Quick Comparison
 
-### Container Options
+| Type | Cost/Use | Best For |
+|------|----------|---------|
+| Zip lock | $0.15 | Beginners |
+| Vacuum seal | $0.50–1.00 | Long cooks |
+| Silicone (Stasher) | $0.05 (100+ uses) | Frequent cooks |
 
-| Container | Best For |
-|-----------|----------|
-| Stock pot | General use, most home kitchens |
-| Insulated cooler | Long cooks, large volumes, overnight |
-| Cambro food pan | Restaurant-style, multiple items |
-| Dedicated sous vide container | Integrated lid, built-in mount |
-
-**Tip:** Leave 2+ inches between bags and container walls for proper circulation.
-
-### Quick Comparison
-
-| Type | Cost per Use | Best For |
-|------|-------------|----------|
-| Zip lock (freezer-grade) | ~$0.15 | Beginners, occasional use |
-| Vacuum seal | ~$0.50-1.00 | Long cooks, best results |
-| Silicone (Stasher) | ~$0.05 (over 100+ uses) | Frequent cooks, eco-conscious |
+---
 
 ## Sources
-- stasherbag.com
-- oneclearwinner.com
-- crazyjuicer.com
+
+- [Stasher Official](https://www.stasherbag.com)
+- [OneClearWinner — Silicone Bags](https://reviews.oneclearwinner.com/product/silicone-sous-vide-bags/)
