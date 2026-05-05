@@ -1,5 +1,31 @@
 ﻿# Log
 
+## [2026-05-05] Breakfast, Lunch & Dinner Categories
+
+- Created wiki/dishes/breakfast/breakfast-dishes.md (category overview)
+- Created wiki/dishes/lunch/lunch-dishes.md (category overview)
+- Created wiki/dishes/dinner/dinner-dishes.md (category overview)
+- Created wiki/dishes/breakfast/poached-eggs.md (145°F, 45-60 min, difficulty 1/5)
+- Created wiki/dishes/breakfast/breakfast-sausage.md (150°F, 1-2 hrs, difficulty 2/5)
+- Created wiki/dishes/lunch/sous-vide-burger.md (130°F, 1 hr, difficulty 2/5)
+- Created wiki/dishes/lunch/chicken-salad.md (145°F, 1.5-4 hrs, difficulty 2/5)
+- Created wiki/dishes/dinner/rack-of-lamb.md (130°F, 2-3 hrs, difficulty 3/5)
+- Created wiki/dishes/dinner/vegetable-wellington.md (183°F, 1.5-2 hrs, difficulty 4/5)
+- Created wiki/dishes/dinner/pork-chops.md (140°F, 1-4 hrs, difficulty 2/5)
+- Updated wiki/index.md with meal type dishes
+
+## [2026-05-05] Fish & Seafood Dishes
+
+- Created wiki/dishes/fish/salmon-lemon-dill.md (115°F, 30-45 min, difficulty 2/5)
+- Created wiki/dishes/fish/ahi-tuna-tataki.md (110°F, 30-45 min, difficulty 2/5)
+- Created wiki/dishes/fish/miso-black-cod.md (104°F, 45-60 min, difficulty 3/5)
+- Created wiki/dishes/fish/fish-tacos.md (130°F, 30-45 min, difficulty 2/5)
+- Created wiki/dishes/seafood/garlic-butter-shrimp.md (145°F, 20-30 min, difficulty 2/5)
+- Created wiki/dishes/seafood/seared-scallops.md (130°F, 20-30 min, difficulty 3/5)
+- Created wiki/dishes/seafood/lobster-tails.md (140°F, 25-35 min, difficulty 3/5)
+- Created wiki/dishes/seafood/squid-ink-pasta.md (140°F, 45-60 min, difficulty 3/5)
+- Updated wiki/index.md with dish summaries
+
 ## [2026-05-05] Red Meat & Poultry Dishes
 
 - Created wiki/dishes/red-meat/ribeye-steak.md (130°F, 2 hours, difficulty 2/5)

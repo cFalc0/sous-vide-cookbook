@@ -35,5 +35,12 @@
 
 ## Dishes - By Meal Type
 - [[breakfast-dishes]]:
+- [[poached-eggs]]: J Ammy 63°C yolk, 45-60 min, difficulty 1/5
+- [[breakfast-sausage]]: Juicy patties, 150°F for 1-2 hrs, difficulty 2/5
 - [[lunch-dishes]]:
+- [[sous-vide-burger]]: Medium-rare every time, 130°F for 1 hr, difficulty 2/5
+- [[chicken-salad]]: Perfectly cooked breast, 145°F for 1.5-4 hrs, difficulty 2/5
 - [[dinner-dishes]]:
+- [[rack-of-lamb]]: Elegant centerpiece, 130°F for 2-3 hrs, difficulty 3/5
+- [[vegetable-wellington]]: Creative vegetarian, 183°F for 1.5-2 hrs, difficulty 4/5
+- [[pork-chops]]: Modern pink, 140°F for 1-4 hrs, difficulty 2/5

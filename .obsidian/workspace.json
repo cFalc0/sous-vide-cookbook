@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/dishes/fish/fish-tacos.md",
+                "file": "wiki/dishes/seafood/lobster-tails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fish-tacos"
+              "title": "lobster-tails"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/dishes/fish/fish-tacos.md",
+                "file": "wiki/dishes/seafood/lobster-tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fish-tacos"
+              "title": "Backlinks for lobster-tails"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/dishes/fish/fish-tacos.md",
+                "file": "wiki/dishes/seafood/lobster-tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from fish-tacos"
+              "title": "Outgoing links from lobster-tails"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/dishes/fish/fish-tacos.md",
+                "file": "wiki/dishes/seafood/lobster-tails.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fish-tacos"
+              "title": "Outline of lobster-tails"
             }
           }
         ]
@@ -183,8 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "af6c14f198d1ed3e",
+  "active": "105a996fa7f4bf35",
   "lastOpenFiles": [
+    "wiki/dishes/dinner/pork-chops.md",
+    "wiki/dishes/dinner/vegetable-wellington.md",
+    "wiki/dishes/dinner/rack-of-lamb.md",
+    "wiki/dishes/lunch/chicken-salad.md",
+    "wiki/dishes/lunch/sous-vide-burger.md",
+    "wiki/dishes/breakfast/breakfast-sausage.md",
+    "wiki/dishes/breakfast/poached-eggs.md",
+    "wiki/dishes/fish/fish-tacos.md",
     "wiki/dishes/seafood/squid-ink-pasta.md",
     "wiki/dishes/seafood/lobster-tails.md",
     "wiki/dishes/seafood/seared-scallops.md",
@@ -202,13 +210,6 @@
     "wiki/dishes/dinner/dinner-dishes.md",
     "wiki/dishes/breakfast/breakfast-dishes.md",
     "wiki/concepts/searing-techniques.md",
-    "wiki/dishes/fish/fish-tacos.md",
-    "wiki/dishes/fish/miso-black-cod.md",
-    "wiki/dishes/fish/ahi-tuna-tataki.md",
-    "wiki/dishes/fish/salmon-lemon-dill.md",
-    "wiki/concepts/bag-techniques.md",
-    "wiki/concepts/timing-guide.md",
-    "wiki/concepts/temperature-guide.md",
-    "wiki/concepts/sous-vide-basics.md"
+    "wiki/dishes/fish/miso-black-cod.md"
   ]
 }
