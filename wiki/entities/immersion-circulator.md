@@ -1,61 +1,97 @@
 # Immersion Circulator
 
-The core device that makes sous vide possible. It clamps to any heat-safe container, heats water to a precise temperature, and circulates it to eliminate hot and cold spots.
+The immersion circulator is the heart of sous vide cooking. It heats water to a precise temperature and circulates it to eliminate hot and cold spots. Understanding this device helps you choose and use one effectively.
+
+---
+
+## What It Does
+
+Three functions in one device:
+
+1. **Heats** — Raises water to target temperature
+2. **Circulates** — Moves water throughout the container for even heat distribution
+3. **Maintains** — PID controller keeps temperature stable (±0.1–0.3°F)
+
+This precision is what makes sous vide possible. Without circulation, water would stratify by temperature. Food would cook unevenly.
 
 ---
 
 ## How It Works
 
-Three components make precision possible:
+The heating element (typically 750–1200 watts) brings water to temperature. A small pump circulates water throughout the container. A microcontroller with PID (proportional-integral-derivative) algorithm adjusts heating in real-time to maintain the target temperature.
 
-- **Heating element** (750–1200 watts) brings water to target temp
-- **Pump** circulates water, ensuring even temperature throughout
-- **PID controller** maintains temperature within 0.1–0.3°F
-
-Food can cook for hours without overcooking as long as temperature stays stable.
+These three components work together to create a stable cooking environment.
 
 ---
 
-## Popular Models
+## What to Look For
 
-| Model | Price | Watts | Best For |
-|-------|-------|-------|----------|
-| Anova Nano | $70–100 | 850 | Beginners |
-| Anova Precision Cooker 3.0 | $150–230 | 1100 | Most home cooks |
-| Breville Joule Turbo | ~$250 | 1100 | Premium, app-only |
-| Anova Pro | ~$400 | 1200 | Heavy use |
+### Wattage
 
-### Anova Precision Cooker 3.0 — Best Overall
-- 1100 watts, dual-band WiFi
-- Heats 5 gallons to 140°F in ~20 minutes
-- On-device controls + app backup
-- Adjustable clamp fits most containers
+- **750 watts** — Sufficient for small containers (up to 5 gallons)
+- **1000 watts** — Heats faster, handles 5–10 gallon containers
+- **1200 watts** — Best for large batches, recovers temperature quickly after adding cold food
 
-### Breville Joule Turbo
-- Most compact design
-- Magnetic base for free-standing in metal pots
-- App-only control (no on-device screen)
-- Turbo mode for faster cooking
+Higher wattage means faster preheat and better recovery when adding cold items. For home use, 1000 watts strikes the right balance.
 
-### Anova Nano — Best Budget
-- 850 watts, Bluetooth
-- Holds temp within 0.2°F
-- Compact, easy storage
-- Ideal entry point
+### Temperature Accuracy
+
+Quality units maintain temperature within 0.2°F (0.1°C). This precision is essential for consistent results.
+
+Lower-quality units may drift 1–2°F — noticeable with eggs and other precision cooks.
+
+### Circulation Rate
+
+Higher flow rate (liters per minute) means more even temperature distribution. This matters more in larger containers.
+
+For home use, 8 liters/minute is standard. Professional units reach 12+ liters/minute.
+
+### Controls
+
+- **On-device display** — Set temps without a phone
+- **App connectivity** — Remote monitoring, additional recipes
+- **Both** — Most versatile
+
+App-only devices require a phone nearby. On-device controls work as backup.
 
 ---
 
-## Key Features
+## Using Your Circulator
 
-- **Wattage** — Higher = faster heating, better for large volumes
-- **Temperature accuracy** — 0.2°F is standard quality
-- **Connectivity** — WiFi for remote control
-- **On-device controls** — Backup when phone unavailable
+1. **Attach** — Clamp to container edge or use magnetic base
+2. **Fill** — Add water to cover the heating element
+3. **Set** — Preheat to target temperature
+4. **Wait** — Let stabilize for 10–15 minutes
+5. **Submerge** — Add bagged food to the water
+6. **Monitor** — Check that the circulator stays submerged
+
+The circulator must always be running. Never let it run dry.
+
+---
+
+## Care and Maintenance
+
+- **Descale periodically** — Especially in hard water areas
+- **Clean the grill** — Prevent mineral buildup on the heating element
+- **Store dry** — Let fully air dry before storage
+- **Check calibration** — annually for consistency (use an independent thermometer)
+
+A well-maintained circulator lasts many years.
+
+---
+
+## Troubleshooting
+
+| Issue | Possible Cause | Solution |
+|-------|---------------|----------|
+| Temperature drift | Mineral buildup | Descale the unit |
+| Unit shuts off | Water too low | Add water, ensure submersion |
+| Uneven results | Poor circulation | Ensure water covers food, use a larger container |
+| Slow heating | Low wattage | Use smaller container |
 
 ---
 
 ## Sources
 
-- [Engadget — Best Sous Vide 2025](https://www.engadget.com/best-sous-vide-133025288.html)
-- [Serious Eats — Sous Vide Reviews](https://www.seriouseats.com/sous-vide-machine-reviews)
-- [America's Test Kitchen](https://www.atk.org)
+- [USDA Food Safety Guidelines](https://www.fsis.usda.gov)
+- [Serious Eats — Equipment Reviews](https://www.seriouseats.com)

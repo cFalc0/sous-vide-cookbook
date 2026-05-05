@@ -1,15 +1,15 @@
 # Index
 
 ## Concepts
-- [[sous-vide-basics]]: What sous vide is, how it works, advantages
-- [[temperature-guide]]: Precise temps for beef, pork, poultry, fish, eggs by doneness
-- [[timing-guide]]: 4-hour rule, 24-hour rule, texture changes over time
-- [[bag-techniques]]: Water displacement method, preventing floating
-- [[searing-techniques]]: Torch, cast iron, common mistakes
+- [[sous-vide-basics]]: What sous vide is, how it works, the core principle
+- [[temperature-guide]]: Doneness temperatures for every protein
+- [[timing-guide]]: The 4-hour rule, collagen conversion, minimum/maximum times
+- [[bag-techniques]]: Water displacement, vacuum sealing, preventing floating
+- [[searing-techniques]]: Torch and cast iron methods, common mistakes
 
 ## Entities
-- [[immersion-circulator]]: Popular models (Anova, Joule), how to choose
-- [[sous-vide-bags]]: Zip lock, vacuum seal, silicone options
+- [[immersion-circulator]]: How these devices work, what to look for
+- [[sous-vide-bags]]: Zip lock, vacuum seal, and reusable options
 
 ## Dishes - By Protein
 - [[red-meat-dishes]]:

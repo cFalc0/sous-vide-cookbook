@@ -1,61 +1,84 @@
 # Sous Vide Bags
 
-Options range from single-use zip lock bags to reusable silicone bags. Each has trade-offs in cost, convenience, and environmental impact.
+Your choice of bag affects cost, convenience, and environmental impact. Understand your options to choose what's right for your practice.
 
 ---
 
-## Zip Lock Bags
+## Zip Lock Bags (Freezer-Grade)
 
-The lowest barrier to entry.
+The accessible entry point. No special equipment needed.
 
-- **Cost:** ~$0.15 per bag
-- **Use:** Freezer-grade only (standard bags fail at heat)
-- **Method:** Water displacement (see [[bag-techniques]])
+### How to Use
 
-**Pros:** Cheap, no equipment needed  
-**Cons:** Single-use, may float
+Combine with the water displacement method. See [[bag-techniques]].
+
+### Characteristics
+
+- **Cost:** Lowest per-use expense
+- **Availability:** Widely available
+- **Durability:** Single-use
+- **Heat rating:** Most handle sous vide temperatures if freezer-grade
+
+### When to Use
+
+- Getting started with sous vide
+- Short cooks (under 4 hours)
+- Single proteins or portions
 
 ---
 
 ## Vacuum Seal Bags
 
-Best for long cooks and professional results.
+Superior air removal. Requires a vacuum sealer machine.
 
-- **Cost:** ~$0.50–1.00 per bag
-- **Requires:** Vacuum sealer ($50–200)
+### How to Use
 
-**Pros:** Complete air removal, best heat transfer  
-**Cons:** Higher ongoing cost
+Extract all air with the machine, then seal. Air is expelled before the heat source touches the bag.
+
+### Characteristics
+
+- **Cost:** Moderate per-use expense ($0.50–1.00)
+- **Seal quality:** Near-complete air removal
+- **Durability:** Resists seam splitting in long cooks
+- **Heat rating:** Excellent for high-heat applications
+
+### When to Use
+
+- Long cooks (over 4–6 hours)
+- Temperatures above 158°F (70°C)
+- When best possible heat transfer matters
 
 ---
 
 ## Reusable Silicone Bags
 
-Eco-friendly option — can be used hundreds of times.
+An eco-conscious option. One-time purchase, hundreds of uses.
 
-### Stasher Bags — Leading Brand
-- **Cost:** $15–40 per bag (one-time)
-- **Material:** Platinum silicone, BPA-free
-- **Seal:** Pinch-Loc
-- **Sizes:** Half-gallon, quart, sandwich, snack
-- **Dishwasher/Freezer:** Safe
-- **Heat:** Oven to 425°F
+### Characteristics
 
-**Tip:** For long sous vide cooks, clip the top to prevent air escape.
+- **Cost:** Higher upfront, then minimal ongoing cost
+- **Seal:** Pinch-lock closure
+- **Durability:** Lasts for years with proper care
+- **Care:** Dishwasher safe, freezer safe
+
+### Practical Notes
+
+- For long cooks, clip the top to the container edge to prevent air escape
+- Not a true vacuum — some air may remain
+- Works well for short-to-moderate cooks
 
 ---
 
 ## Quick Comparison
 
-| Type | Cost/Use | Best For |
-|------|----------|---------|
-| Zip lock | $0.15 | Beginners |
-| Vacuum seal | $0.50–1.00 | Long cooks |
-| Silicone (Stasher) | $0.05 (100+ uses) | Frequent cooks |
+| Type | Initial Cost | Per-Use Cost | Best For |
+|------|------------|--------------|----------|
+| Zip lock (freezer-grade) | $0 | $0.10–0.15 | Getting started |
+| Vacuum seal | $50–200 | $0.50–1.00 | Long cooks, quality |
+| Reusable silicone | $15–40 | ~$0.05 over 100+ uses | Frequent use |
 
 ---
 
 ## Sources
 
-- [Stasher Official](https://www.stasherbag.com)
-- [OneClearWinner — Silicone Bags](https://reviews.oneclearwinner.com/product/silicone-sous-vide-bags/)
+- [Serious Eats — Equipment Guide](https://www.seriouseats.com)
