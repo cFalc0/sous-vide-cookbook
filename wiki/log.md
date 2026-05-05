@@ -1,5 +1,15 @@
 ﻿# Log
 
+## [2026-05-05] Index Restructuring for Obsidian Graph View
+
+- Restructured wiki/index.md to link to 4 protein category pages
+- Updated wiki/dishes/red-meat/red-meat-dishes.md with dish index
+- Updated wiki/dishes/fish/fish-dishes.md with dish index
+- Updated wiki/dishes/poultry/poultry-dishes.md with dish index
+- Updated wiki/dishes/seafood/seafood-dishes.md with dish index
+- Each category page now links to individual dishes for Obsidian graph visualization
+- Each dish page links back to its category page
+
 ## [2026-05-05] Breakfast, Lunch & Dinner Categories
 
 - Created wiki/dishes/breakfast/breakfast-dishes.md (category overview)
